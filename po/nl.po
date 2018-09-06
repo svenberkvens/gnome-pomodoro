@@ -40,7 +40,7 @@ msgid ""
 "intends to improve productivity and focus by taking short breaks after every "
 "25 minutes of work."
 msgstr ""
-"Een GNOME hulpprogramma dat helpt de tijd de beheren volgens de "
+"Een GNOME hulpprogramma dat helpt de tijd toe beheren volgens de "
 "Pomodorotechniek. Het is bedoeld om de productiviteit en focus te verbeteren "
 "door korte pauzes te nemen na elke 25 minuten werk."
 
